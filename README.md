@@ -38,4 +38,4 @@ d) Enlace del repositorio de GitHub:
 https://github.com/ManueldJMatias/-t3_act5_react.git
 
 e) Enlace de GitHub Pages:
-
+https://ManueldJMatias.github.io/-t3_act5_react/
