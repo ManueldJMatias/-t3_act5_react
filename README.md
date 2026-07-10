@@ -1,4 +1,5 @@
-# Proyecto de React - Tareas y Perfil
+# Proyecto de React 
+MANUEL DE JESUS MATIAS CARREÑO 22161159
 
 Este es un proyecto sencillo de React hecho con Vite para la tarea. Tiene una lista de tareas básica y una tarjeta de presentación con mis datos.
 
@@ -34,7 +35,7 @@ useState sirve para crear una variable de estado que React vigila. Si esa variab
 Lo usé en `FormularioTarea.jsx` para guardar lo que la persona escribe en la caja de texto (`texto`) antes de agregar la tarea, y también para abrir y cerrar el mensaje de ayuda (`mostrarAyuda`) con un botón.
 
 d) Enlace del repositorio de GitHub:
-(poner enlace aquí)
+https://github.com/ManueldJMatias/-t3_act5_react.git
 
 e) Enlace de GitHub Pages:
-(poner enlace aquí)
+
